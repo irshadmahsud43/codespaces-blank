@@ -111,7 +111,9 @@ I have over 4 years of experience in Network Engineering, IT Infrastructure, and
 
 📧 Email: [irshadmahsud42@gmail.com](mailto:irshadmahsud42@gmail.com)
 
-💼 LinkedIn: Add Your LinkedIn Profile
+💼 LinkedIn:(https://www.linkedin.com/in/irshad-hussain-12b0861a7/)
+
+Contact:+923489548066
 
 📍 Location: Dera Ismail Khan, Khyber Pakhtunkhwa, Pakistan
 
