@@ -1,86 +1,130 @@
-# Hi there, I'm Irshad Mahsud 👋
+# Hi there, I'm Irshad Hussain 👋
 
-Welcome to my GitHub profile! I'm a passionate developer committed to building innovative solutions and contributing to the open-source community.
+## Senior Network Engineer | Network Security Specialist | IT Infrastructure Professional
+
+Welcome to my GitHub profile! I'm a passionate Network Engineer with experience in designing, implementing, securing, and maintaining enterprise network infrastructures. I enjoy working with routing, switching, firewalls, network security, and modern data center technologies.
 
 ---
 
 ## 🚀 About Me
 
-I'm a software developer with a passion for creating clean, efficient code and solving complex problems. I believe in continuous learning and collaboration, and I'm always eager to work on projects that make a positive impact.
+I have over 4 years of experience in Network Engineering, IT Infrastructure, and Technical Support. Currently, I work as a Senior Network Engineer, managing critical network services, security systems, and enterprise infrastructure.
 
-- 🌍 Based in a tech-forward community
-- 💻 Full-stack developer with diverse technical interests
-- 🎯 Focused on writing maintainable, scalable code
-- 🤝 Open to collaboration and knowledge sharing
+* 🌐 Experienced in Enterprise Network Design & Operations
+* 🔒 Specialized in Network Security and Firewalls
+* 🖧 Skilled in Cisco, Huawei, Fortinet, Palo Alto, and F5 Technologies
+* 🚀 Passionate about Automation, SD-WAN, and Data Center Networking
+* 📚 Continuously learning emerging networking technologies
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages:**
-- JavaScript / TypeScript
-- Python
-- Java
-- HTML & CSS
+### Networking
 
-**Tools & Technologies:**
-- Git & GitHub
-- VS Code
-- Docker
-- REST APIs
+* Cisco Routing & Switching
+* Huawei Datacom Technologies
+* LAN/WAN Design & Troubleshooting
+* VLANs, STP, EtherChannel
+* OSPF, BGP, EIGRP
+* HSRP, VRRP
+* MPLS & VPN Technologies
+* SD-WAN
+
+### Network Security
+
+* FortiGate Firewall
+* Palo Alto Firewall
+* Cisco ASA Firewall
+* Access Control & Security Policies
+* VPN (IPSec & SSL VPN)
+* Network Access Control (Cisco ISE)
+
+### Load Balancing & Application Delivery
+
+* F5 LTM
+* F5 GTM
+* High Availability Solutions
+
+### Systems & Infrastructure
+
+* Windows Server Administration
+* Active Directory
+* DHCP & DNS
+* CCTV Surveillance Systems
+* Access Control Systems
+* ERP Support
 
 ---
 
 ## 📌 Featured Projects
 
-### Project 1
-A brief description of your most impressive project. What problem does it solve? What technologies did you use?
+### F5 LTM Migration Project
 
-- [Repository Link](#) | [Live Demo](#)
+* Migrated F5 LTM appliances to R-Series platforms.
+* Performed configuration validation, testing, and optimization.
 
-### Project 2
-Another noteworthy project that showcases your skills and creativity.
+### FortiGate High Availability Deployment
 
-- [Repository Link](#) | [Live Demo](#)
+* Implemented FortiGate HA for business continuity and redundancy.
+* Configured security policies, VPNs, and failover mechanisms.
 
-### Project 3
-A third project that highlights different aspects of your development expertise.
+### DMVPN Deployment
 
-- [Repository Link](#) | [Live Demo](#)
+* Designed and deployed Cisco DMVPN solutions for branch connectivity.
+* Improved scalability and secure communication.
 
----
+### Huawei Network Migration
 
-## 📊 GitHub Stats
+* Migrated enterprise infrastructure from legacy systems to Huawei networking solutions.
+* Configured routing, switching, VLANs, and security policies.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irshadmahsud43&show_icons=true&theme=radical)
+### CCTV & Access Control Systems
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irshadmahsud43&layout=compact&theme=radical)
-
----
-
-## 🌟 Contributions & Achievements
-
-- 🔗 Active contributor to open-source projects
-- 📚 Always learning and exploring new technologies
-- 🏆 Committed to best practices and clean code
+* Managed enterprise CCTV monitoring systems and access control infrastructure.
+* Troubleshot and resolved critical operational issues.
 
 ---
 
-## 💬 Let's Connect!
+## 🏆 Certifications
 
-I'd love to chat about tech, collaborate on projects, or discuss ideas!
-
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Twitter:** [@YourHandle](#)
-- **Portfolio:** [Your Website](#)
+* CCNA (Routing & Switching)
+* HCIP Datacom
+* Fortinet Certified Associate (FCA)
+* Professional Training in ASA, FortiGate, CCNA, and CCNP Technologies
 
 ---
 
-## 📈 Recent Activity
+## 📊 Areas of Interest
 
-Check out my repositories below to see what I'm working on. Feel free to explore, fork, and contribute!
+* Network Security
+* SD-WAN
+* Data Center Networking
+* Network Automation
+* Cloud Networking
+* Cybersecurity
+* F5 Application Delivery Solutions
 
 ---
 
-**Thanks for visiting my profile! Feel free to reach out anytime.** ✨
+## 💬 Connect With Me
+
+📧 Email: [irshadmahsud42@gmail.com](mailto:irshadmahsud42@gmail.com)
+
+💼 LinkedIn: Add Your LinkedIn Profile
+
+📍 Location: Dera Ismail Khan, Khyber Pakhtunkhwa, Pakistan
+
+---
+
+## 📈 Current Focus
+
+* Cisco Nexus 9000 (N9K)
+* FortiGate SD-WAN
+* F5 LTM & GTM
+* Network Automation
+* Data Center Technologies
+
+---
+
+⭐ Thank you for visiting my profile. Feel free to explore my repositories and connect with me for networking, security, and infrastructure-related discussions.
